@@ -10,5 +10,5 @@ title: Publications
 - **[Abstraction in Postwar Japanese Printmaking](https://www.asianartscollection.com/id/Abstraction-in-Postwar-Japanese-Printmaking/39),** *The Koller Collection of Asian Art*, 2020.
 ---
   ## Interviews
-  - **[Red, White, Yellow & Black:1972-3](https://gagosian.com/quarterly/2023/02/10/interview-red-white-yellow-and-black-1972-73/),** Interview with *Gagosian Quarterly*, Spring 2023.
+  - **[Red, White, Yellow & Black: 1972-3](https://gagosian.com/quarterly/2023/02/10/interview-red-white-yellow-and-black-1972-73/),** Interview with *Gagosian Quarterly*, Spring 2023.
   - **[Shigeko Kubota’s Self Portrait](https://www.moma.org/magazine/articles/646),** Interview with *MoMA Magazine*, October 13, 2021.

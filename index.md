@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to My Site
+title: Hi there, I'm Lia
 ---
 # Welcome to My Site
 This is a simple introduction to my site.

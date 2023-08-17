@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Hi there, I'm Lia
+title: Home
 ---
-# Welcome to My Site
-This is a simple introduction to my site.
+# Hi there, I'm Lia 🙋🏻‍♀️
+## ようこそ！
+I am an incoming Brown student in the *History of Art and Architecture Department*. 

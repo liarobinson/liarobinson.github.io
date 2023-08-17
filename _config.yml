@@ -1,2 +1,5 @@
 title: Sample Static Site
 theme: minima
+header_pages:
+- index.md
+- page1.md

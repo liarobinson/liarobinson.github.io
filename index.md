@@ -2,4 +2,4 @@
 layout: default
 title:
 ---
-:warning: This site is under construction :warning:
+:rotating_light::warning: This site is under construction :warning::rotating_light:
